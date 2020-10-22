@@ -69,7 +69,7 @@ The geospatial data used here is of [LCPS](https://www.lcps.org/) school distric
 ## Citation
 If you use this data/code for your work, please consider citing the paper:
 ```
-@inproceedings{regal-gis,
+@inproceedings{spatial-gis,
  author = {Biswas, Subhodip and Chen, Fanglan and Chen, Zhiqian and Lu, Chang-Tien and Ramakrishnan, Naren},
  title = {Incorporating domain knowledge into Memetic Algorithms for solving Spatial Optimization problems},
  booktitle = {Proceedings of the 28th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems},
