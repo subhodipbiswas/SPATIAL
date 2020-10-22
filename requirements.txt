@@ -1,0 +1,12 @@
+descartes==1.1.0
+Fiona==1.8a1
+geographiclib==1.49
+geopandas==0.3.0
+networkx==2.1
+numpy==1.14.0
+pandas==0.23.0
+python-dateutil==2.7.3
+scikit-learn==0.19.1
+scipy==1.1.0
+Shapely==1.6.4.post1
+tqdm==4.23.4
