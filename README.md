@@ -69,21 +69,22 @@ The geospatial data used here is of [LCPS](https://www.lcps.org/) school distric
 ## Citation
 If you use this data/code for your work, please consider citing the paper:
 ```
-@inproceedings{spatial-gis,
- author = {Biswas, Subhodip and Chen, Fanglan and Chen, Zhiqian and Lu, Chang-Tien and Ramakrishnan, Naren},
- title = {Incorporating domain knowledge into Memetic Algorithms for solving Spatial Optimization problems},
- booktitle = {Proceedings of the 28th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems},
- series = {SIGSPATIAL '20},
- year = {2020},
- isbn = {978-1-4503-8019-5/20/11},
- location = {Seattle, WA, USA},
- numpages = {11},
- url = {http://doi.acm.org/10.1145/3397536.3422265},
- doi = {10.1145/3397536.3422265},
- publisher = {ACM},
- address = {New York, NY, USA},
- keywords = {Metaheuristic, domain knowledge, spatial optimization},
-} 
+@inproceedings{10.1145/3397536.3422265,
+author = {Biswas, Subhodip and Chen, Fanglan and Chen, Zhiqian and Lu, Chang-Tien and Ramakrishnan, Naren},
+title = {Incorporating Domain Knowledge into Memetic Algorithms for Solving Spatial Optimization Problems},
+year = {2020},
+isbn = {9781450380195},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3397536.3422265},
+doi = {10.1145/3397536.3422265},
+booktitle = {Proceedings of the 28th International Conference on Advances in Geographic Information Systems},
+pages = {25–35},
+numpages = {11},
+keywords = {Metaheuristic, domain knowledge, spatial optimization},
+location = {Seattle, WA, USA},
+series = {SIGSPATIAL '20}
+}
 ```
 ## Help
 Should you have queries, feel free to send an email to subhodip [at] cs.vt.edu
